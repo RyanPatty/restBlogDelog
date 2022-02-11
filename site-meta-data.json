@@ -2,7 +2,9 @@
   "title": "Home",
   "siteUrl": "https://condescending-khorana-01d8e4.netlify.app/",
   "description": "Delog, a GatsbyJS and Netlify CMS starter for Designers and Developers",
-  "home": {
+  "home": 
+  {
     "title": "Shangrila Bistro Marietta",
-    "description": "Online menu for to-go orders. Please call in or place your order in person.",
+    "description": "Online menu for to-go orders. Please call in or place your order in person."
+  }
 }
