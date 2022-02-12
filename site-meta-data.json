@@ -2,8 +2,7 @@
   "title": "Home",
   "siteUrl": "https://condescending-khorana-01d8e4.netlify.app/",
   "description": "Delog, a GatsbyJS and Netlify CMS starter for Designers and Developers",
-  "home": 
-  {
+  "home":  {
     "title": "Shangrila Bistro Marietta",
     "description": "Call: (678) 388-7878 for To-Go orders and Deliveries! Located at 3545 Canton Rd, Marietta, GA 30066"
   }
