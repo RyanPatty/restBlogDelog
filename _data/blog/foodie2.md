@@ -3,7 +3,7 @@ template: BlogPost
 path: /with-food2
 date: 2020-02-20T15:08:12.174Z
 title: Appetizer Menu
-thumbnail: /assets/apps.jpeg
+thumbnail: /assets/Apps.jpeg
 ---
 
 ## Appetizers
