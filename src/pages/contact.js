@@ -20,6 +20,7 @@ const ContactPage = ({
           <p> &rarr;</p>
         </div>
         <div>
+            <input type="button" onclick="location.href='https://www.ubereats.com/store/shangrila-bistro/9qOxJCKIRFGR-o53jEbXLA?diningMode=DELIVERY';" value="Go to Uber Ears" />
           
             
         </div>
