@@ -23,6 +23,8 @@ export default () => (
         />
        
        <a className="button -primary" href="https://www.ubereats.com/store/shangrila-bistro/9qOxJCKIRFGR-o53jEbXLA?diningMode=DELIVERY">Uber Eats</a>
+       <a className="button -primary" href="https://postmates.com/store/shangrila-bistro/9qOxJCKIRFGR-o53jEbXLA?diningMode=DELIVERY">Post Mates</a>
+      
       
       </div>
     )}
