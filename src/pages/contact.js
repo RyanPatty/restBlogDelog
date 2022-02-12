@@ -20,9 +20,11 @@ const ContactPage = ({
           <p> &rarr;</p>
         </div>
         <div>
-           <form className="button -primary" action="https://www.ubereats.com/store/shangrila-bistro/9qOxJCKIRFGR-o53jEbXLA?diningMode=DELIVERY">
+           <button className="button -primary" action=>
     <input type="submit" value="Go to Uber Eats" />
-           </form>
+           </button>
+
+        <a className="button -primary" href="https://www.ubereats.com/store/shangrila-bistro/9qOxJCKIRFGR-o53jEbXLA?diningMode=DELIVERY">Uber Eats</a>
             
         </div>
       </div>
