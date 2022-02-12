@@ -2,8 +2,8 @@
 template: BlogPost
 path: /with-food
 date: 2022-02-20T15:08:12.174Z
-title: Code with Syntax Highlighting with PrismJS
-thumbnail: /assets/image-2.jpg
+title: Full Food Menu
+thumbnail: /assets/food1.jpg
 ---
 
 ## Appetizers
