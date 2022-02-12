@@ -3,7 +3,7 @@ template: BlogPost
 path: /with-food
 date: 2022-02-20T15:08:12.174Z
 title: Full Food Menu
-thumbnail: /assets/food1.jpg
+thumbnail: /assets/food1.jpeg
 ---
 
 ## Appetizers
