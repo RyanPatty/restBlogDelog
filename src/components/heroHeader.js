@@ -22,6 +22,7 @@ export default () => (
           dangerouslySetInnerHTML={{ __html: data.site.siteMetadata.home.description}}
         />
        <Link to='/contact' className="button -primary">Get in touch &rarr;</Link>
+       <a className="button -primary" href="https://www.ubereats.com/store/shangrila-bistro/9qOxJCKIRFGR-o53jEbXLA?diningMode=DELIVERY">Uber Eats</a>
       
       </div>
     )}
