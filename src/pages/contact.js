@@ -20,9 +20,21 @@ const ContactPage = ({
           <p> &rarr;</p>
         </div>
         <div>
-           <button className="button -primary" action="https://www.ubereats.com/store/shangrila-bistro/9qOxJCKIRFGR-o53jEbXLA?diningMode=DELIVERY">
-    <input type="submit" value="Go to Uber Eats" />
-           </button>
+            <form
+  action="https://formspree.io/f/moqrdarj"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
+</form>
 
         </div>
       </div>
